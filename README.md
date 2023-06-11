@@ -36,7 +36,7 @@
 
 * Faça o 'Sing up' com um email e uma senha de exemplo.
   ![](images/sign_up.png)
-  ![](images/logeg_in.png)
+  ![](images/loged_in.png)
 
 * Se o 'Sign up' for bem sucedido aparecerá uma mensagem e você pode ir para `http://localhost:4000/auth` se quiser ver os usuários que foram criados no Firebase Authentication Emulator UI
   ![](images/emulator_suite.png)
